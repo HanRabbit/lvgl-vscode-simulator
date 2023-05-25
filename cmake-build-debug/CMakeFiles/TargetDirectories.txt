@@ -1,0 +1,3 @@
+C:/Users/txfly/CLionProjects/lvgl/cmake-build-debug/CMakeFiles/LVGL.dir
+C:/Users/txfly/CLionProjects/lvgl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/txfly/CLionProjects/lvgl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
